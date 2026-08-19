@@ -1,5 +1,6 @@
 # ◈ Fusion Souls ◈
 # 
+<img src="assets/fusionsouls.png" width="100%" height="200" style="object-fit: cover;">
 
 > No mundo, almas não desaparecem quando alguém morre; elas vagam e procuram receptáculos. O protagonista, sendo um humano comum, possui uma maldição: o poder de absorver e fundir  almas dentro de si.
 #
